@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "九日MdEditor",
+  "name": "九日MdEditor",
+  "description":"非常陽春的Editor",
   "icons": [
     {
       "src": "favicon.ico",
