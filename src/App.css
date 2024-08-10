@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: 'NineSols';
+  src: url("../font/NineSols.ttf");
+}
+
+.wmde-markdown {
+  font-family: 'NineSols' !important; 
+}
