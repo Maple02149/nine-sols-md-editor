@@ -1,19 +1,16 @@
 {
   "files": {
-    "main.css": "./public/static/css/main.11e8d31a.css",
-    "main.js": "./public/static/js/main.cb2ce57c.js",
-    "static/js/453.0eeaad4b.chunk.js": "./public/static/js/453.0eeaad4b.chunk.js",
-    "static/media/NotoSansTC-VariableFont_wght.ttf": "./public/static/media/NotoSansTC-VariableFont_wght.30eb38a7f9422e9badac.ttf",
-    "static/media/NineSols.ttf": "./public/static/media/NineSols.5fab13abb7faedf88e44.ttf",
-    "static/media/index.less": "./public/static/media/index.1eda2a3908bde8e1c350.less",
-    "static/media/Child.less": "./public/static/media/Child.34e407039bca1cf253ca.less",
-    "index.html": "./public/index.html",
-    "main.11e8d31a.css.map": "./public/static/css/main.11e8d31a.css.map",
-    "main.cb2ce57c.js.map": "./public/static/js/main.cb2ce57c.js.map",
-    "453.0eeaad4b.chunk.js.map": "./public/static/js/453.0eeaad4b.chunk.js.map"
+    "main.css": "/nine-sols-md-editor/static/css/main.616e7405.css",
+    "main.js": "/nine-sols-md-editor/static/js/main.15c55ca2.js",
+    "static/js/453.0eeaad4b.chunk.js": "/nine-sols-md-editor/static/js/453.0eeaad4b.chunk.js",
+    "static/media/NineSols.ttf": "/nine-sols-md-editor/static/media/NineSols.5fab13abb7faedf88e44.ttf",
+    "index.html": "/nine-sols-md-editor/index.html",
+    "main.616e7405.css.map": "/nine-sols-md-editor/static/css/main.616e7405.css.map",
+    "main.15c55ca2.js.map": "/nine-sols-md-editor/static/js/main.15c55ca2.js.map",
+    "453.0eeaad4b.chunk.js.map": "/nine-sols-md-editor/static/js/453.0eeaad4b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11e8d31a.css",
-    "static/js/main.cb2ce57c.js"
+    "static/css/main.616e7405.css",
+    "static/js/main.15c55ca2.js"
   ]
 }
